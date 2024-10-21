@@ -1,0 +1,14 @@
+C:\Users\PravalikaDungi\source\repos\Notification.ConsoleApp\obj\Debug\Notification.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\PravalikaDungi\source\repos\Notification.ConsoleApp\obj\Debug\Notification.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\PravalikaDungi\source\repos\Notification.ConsoleApp\bin\Debug\Notification.ConsoleApp.exe.config
+C:\Users\PravalikaDungi\source\repos\Notification.ConsoleApp\bin\Debug\Notification.ConsoleApp.exe
+C:\Users\PravalikaDungi\source\repos\Notification.ConsoleApp\bin\Debug\Notification.ConsoleApp.pdb
+C:\Users\PravalikaDungi\source\repos\Notification.ConsoleApp\bin\Debug\Notification.Client.dll
+C:\Users\PravalikaDungi\source\repos\Notification.ConsoleApp\bin\Debug\Notification.dll
+C:\Users\PravalikaDungi\source\repos\Notification.ConsoleApp\bin\Debug\Notification.Client.pdb
+C:\Users\PravalikaDungi\source\repos\Notification.ConsoleApp\bin\Debug\Notification.Client.dll.config
+C:\Users\PravalikaDungi\source\repos\Notification.ConsoleApp\bin\Debug\Notification.pdb
+C:\Users\PravalikaDungi\source\repos\Notification.ConsoleApp\bin\Debug\Notification.dll.config
+C:\Users\PravalikaDungi\source\repos\Notification.ConsoleApp\obj\Debug\Notifica.E70532E6.Up2Date
+C:\Users\PravalikaDungi\source\repos\Notification.ConsoleApp\obj\Debug\Notification.ConsoleApp.exe
+C:\Users\PravalikaDungi\source\repos\Notification.ConsoleApp\obj\Debug\Notification.ConsoleApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\PravalikaDungi\source\repos\Notification.Client\bin\Debug\Notification.Client.dll.config
+C:\Users\PravalikaDungi\source\repos\Notification.Client\bin\Debug\Notification.Client.dll
+C:\Users\PravalikaDungi\source\repos\Notification.Client\bin\Debug\Notification.Client.pdb
+C:\Users\PravalikaDungi\source\repos\Notification.Client\obj\Debug\Notification.Client.csproj.AssemblyReference.cache
+C:\Users\PravalikaDungi\source\repos\Notification.Client\obj\Debug\Notification.Client.csproj.CoreCompileInputs.cache
+C:\Users\PravalikaDungi\source\repos\Notification.Client\obj\Debug\Notification.Client.dll
+C:\Users\PravalikaDungi\source\repos\Notification.Client\obj\Debug\Notification.Client.pdb
